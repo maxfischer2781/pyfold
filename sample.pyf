@@ -1,0 +1,6 @@
+class AAA:
+    def Greet(self):
+        a = "Hello World!"
+        print(self.__CLASS__.__NAME__, "says", A)
+
+aaa().greet()
